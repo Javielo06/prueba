@@ -38,8 +38,9 @@ public class HolaMundo {
         if (num < 10) {
             nombre = "Jesus";
             System.out.println("nombre = " + nombre);
-        }
 
+        }
+        System.out.println("nueva modificacion");
     }
 
 
